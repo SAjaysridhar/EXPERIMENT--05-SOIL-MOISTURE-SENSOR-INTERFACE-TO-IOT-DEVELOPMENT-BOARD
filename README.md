@@ -290,8 +290,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots on serial monitor   :
- 
- <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/dbd94e8e-6ec1-4b10-8fd8-e8e45bbfca0c" />
+
+ <img width="920" height="1350" alt="image" src="https://github.com/user-attachments/assets/b6f4b34a-dfe1-41aa-a5f5-35929c34ea6e" />
+
 
 
 
